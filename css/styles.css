@@ -126,6 +126,10 @@ ol {
 .mobile-menu-social-icon {
   fill: #f4f4fd;
 }
+.mobile-menu-social-item:hover,
+.mobile-menu-social-item:focus {
+  background-color: #404bbf;
+}
 
 @media (min-width: 768px) {
   .mobile-menu {
